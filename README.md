@@ -20,7 +20,10 @@
 
 <h1>Instructions to be followed for exceution: </h1>
 <ul>
-<li>Install MYSQL or SQL.</li>
+<li>Install the XAMPP server.</li>
+<li>Open the application folder / www and drop the ZIP file.</li>
+<li>Run the apache and mysql server</li>
+<li>OPen the defualt browser and type localhost.</li>
 <li>Open MYSQL or SQL in Cmd / Terminal and start SQL or MYSQL DB.</li>
 <li>Run the Commands as followed: </li>
 <li><b>create database Students;</b></li>
