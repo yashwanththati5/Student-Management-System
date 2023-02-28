@@ -27,6 +27,6 @@
 <li><b>use Students;</b></li>
 <li><b>create table records(roll int , name varchar(30) , dept varchar(30));</b></li>
 <li>Run the index file to add , delete , update the records.</li>
-<li>Thanks for the visit :) </li>
 </ul>
+<h2>Thanks for the visit :)</h2>
 
