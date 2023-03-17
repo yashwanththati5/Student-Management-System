@@ -18,7 +18,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) , PHP.
 
-<h1>Instructions to be followed for exceution: </h1>
+<h1>Instructions to be followed for execution: </h1>
 <ul>
 <li>Install the XAMPP server.</li>
 <li>Open the application folder / www and drop the ZIP file.</li>
